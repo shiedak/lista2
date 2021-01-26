@@ -1,0 +1,84 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTP 1 HD
+http://192.168.1.5:8001/1:0:1:320:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,RTP 2 HD
+http://192.168.1.5:8001/1:0:1:338:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,SIC HD
+http://192.168.1.5:8001/1:0:1:322:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,TVI HD
+http://192.168.1.5:8001/1:0:1:339:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,CMTV HD
+http://192.168.1.5:8001/1:0:1:337:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,SIC Notícias HD
+http://192.168.1.5:8001/1:0:1:326:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,TVI 24 HD
+http://192.168.1.5:8001/1:0:1:33B:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,RTP 3
+http://192.168.1.5:8001/1:0:1:65:24:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Sport TV 1 HD
+http://192.168.1.5:8001/1:0:1:686:49:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Sport TV 2 HD
+http://192.168.1.5:8001/1:0:1:687:49:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Sport TV 3 HD
+http://192.168.1.5:8001/1:0:1:688:49:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Sport TV 4 HD
+http://192.168.1.5:8001/1:0:1:689:49:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Sport TV 5 HD
+http://192.168.1.5:8001/1:0:1:838:4C:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,SPORT TV+ HD
+http://192.168.1.5:8001/1:0:1:325:2F:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Sport TV NBA
+http://192.168.1.5:8001/1:0:1:643:42:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,BTV 1 HD
+http://192.168.1.5:8001/1:0:1:68A:49:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Eleven Sports 1
+http://192.168.1.5:8001/1:0:1:19B:27:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Eleven Sports 2
+http://192.168.1.5:8001/1:0:1:19D:27:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Eleven Sports 3
+http://192.168.1.5:8001/1:0:1:7DA:4B:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Eleven Sports 4
+http://192.168.1.5:8001/1:0:1:7DC:4B:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,Eleven Sports 5
+http://192.168.1.5:8001/1:0:1:7D1:4B:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+
+#EXTINF:-1,Canal 11 HD
+http://192.168.1.5:8001/1:0:1:83A:47:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
+
+#EXTINF:-1,PFC
+http://192.168.1.5:8001/1:0:1:26D:29:36:FFFF0000:0:0:0:?bitrate=1500000?width=1920?height=1080?vcodec=h265?aspectratio=2?interlaced=0
